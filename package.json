@@ -1,0 +1,15 @@
+{
+  "name": "lrucache",
+  "version": "0.0.1",
+  "description": "LruCache",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "keywords": [
+    "lrucache",
+    "cache"
+  ],
+  "author": "Yaroslav Gaponov",
+  "license": "ISC"
+}
